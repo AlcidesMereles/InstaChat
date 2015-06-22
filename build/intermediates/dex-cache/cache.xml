@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-184f6fe29c4f2189c30ea57d88260f4a8f79bcc6.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-6c4f1a40a5cb8d6ca7b756e22af5adbadea5c524.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-f58a635940ad22bfedcd9032276e182f0f1279ed.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-473aef2a8359f49b7305bee9f2de9d6dfd85d2b8.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-e0762916e9e5079023c2fe7cb43e056c1345bfc4.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-804d14f2c8a67cc88de1f2d4e88692e28d372eb0.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-c9088978322d537a03e03505ab8ce4837fc68299.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-972fd34c2f77f25acb0e16f57229ea1bfd3bba16.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-cc04afc9571cc18d1d31bb52d37d167c997dc351.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-3274848531fe6118cfa833933f53c64e4e6a5f46.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-c00a75b544f8f08e83d6bb50b55accd51af86c45.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-a04c1aeaf9e662eb05ccad159efb67c15b4aa015.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-9001a31b6d4dce78db43adc4ee230c562b1f624a.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-4e00899490a6ea599bd59fdc7e08f60580249684.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-d40d0a7a064c73389bf419fdd2d97513b65f6b14.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-daa2d726845fbaffc4256476268a5cf1119e89b4.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-52d0dae1863955c503dc58562234e497a5089e0f.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-89dbf8af8387e0d2e0359d3f06111f8dd400f3b3.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-970890777a8c7ab6768af41e9e5956e686699e76.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-3179a4e52918970fb1d6e8b5f572e0b239a864d8.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-676e7eb525cdbde826713ed7b189faf24e21cafb.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-28f8a77cd70956d307259987fe87c7dfd8c387ca.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-8ce7a21f33b17efab2f05cc7f677245bc66e7357.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-088a7dc8a8a0cf99af88ab5b9045795073e96610.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-38c450b415fafa73176fb38824c4dd79d40b38b1.jar" />
+    </item>
+    <item
+        jar="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="F:\Users\Neuschwanstein\AndroidStudioProjects\InstaChat\app\build\intermediates\pre-dexed\debug\classes-a2f71ff7ed134b32978332ac7d3c92faaf99650c.jar" />
+    </item>
+
+</items>
